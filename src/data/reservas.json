@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "hotel": "Hotel Paraíso",
+    "tipo_habitacion": "doble",
+    "num_huespedes": 3,
+    "fecha_inicio": "2025-09-10",
+    "fecha_fin": "2025-09-12",
+    "estado": "pendiente"
+  },
+  {
+    "id": "2",
+    "hotel": "Hotel Andes",
+    "tipo_habitacion": "suite",
+    "num_huespedes": 2,
+    "fecha_inicio": "2025-12-24",
+    "fecha_fin": "2025-12-27",
+    "estado": "confirmada"
+  }
+]
